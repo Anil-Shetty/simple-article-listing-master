@@ -93,6 +93,7 @@ img {
   .container {
     max-width: 46rem;
     margin: 0 auto;
+    padding: 3rem 0;
   }
 
   .article {
